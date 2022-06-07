@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+  .logo{
+    height: 90px;
+    width: 90px;
+}
+header {
+   
+}
+.collapse .navbar-nav .nav-link {
+    list-style: none;
+        display: inline-block;
+        background-color:rgb(118, 118, 118);
+        padding: 0.5rem;
+        border-radius: 1rem;
+        margin: 0 10px 0 10px ;
+        
+    transition: all 0.2s ease-in-out;
+}
+.bottom {
+    background-color: white;
+    color: whitesmoke;
+}
+.navbar-nav .nav-link:hover {
+    border-radius: 50%;
+
+}
+
+.footer-flex div {
+    display: flex;
+    justify-content: center;
+    }
+    .redes {
+        margin: 10px 7px 15px 7px;
+    }
+    .servicios {
+        display: flex;
+    flex-direction:column;
+    height: 90%;
+    }
+
+    aside {
+    
+    
+        padding: 30px;
+        
+    }
+   
+    section {
+       padding: 30px;
+       }
+   
